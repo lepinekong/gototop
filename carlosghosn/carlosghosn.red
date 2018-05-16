@@ -9,7 +9,7 @@ Article: [
 
     Youtube-Videos: [
         .title: {Carlos Ghosn of Nissan/Renault: "Look Ahead, Dont Stand Still"}
-        .youtube: https://www.youtube.com/watch?v=yChtop17sd8
+        .youtube: https://www.youtube.com/embed/yChtop17sd8
     ]
 
 ]
